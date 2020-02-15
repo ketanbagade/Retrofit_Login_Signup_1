@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retrofit_Login_Signup</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="signup">Signup</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_mobileno">Enter mobileno</string>
+    <string name="enter_name">Enter name</string>
+    <string name="login_window">Login Window</string>
+</resources>
